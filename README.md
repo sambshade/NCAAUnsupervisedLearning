@@ -1,6 +1,6 @@
 # Unsupervised Machine Learning Project - Clustering NCAA Men's Basketball Statistics from 2010 - 2023 for Ranking Potential 2024 Winners.
 ## University of Colorado - Boulder M.S.D.S: DTSA 5510 Unsupervised Algorithms in Machine Learning
-## Project Description:¶
+## Project Description:
 
 As March 2024 is on the horizon, millions of Americans will be filling out their brackets to predict who will be the winner of the 2024 NCAA Men's Basketball Championship. The following project uses clustering methods (K-Means Clustering and Hierarchical Clustering) as well as PCA to place 2024 teams into tiersets based on their performance so far this season. The datasets chosen can be found from the KenPom https://kenpom.com/ statistics page. This page examines advanced statistics for NCAA Men's Basketball teams, players, and coaches. From this page, four dataset categories were chosen and described below:
 
